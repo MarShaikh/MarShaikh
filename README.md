@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**MarShaikh/MarShaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I am a Machine Learning Engineer with interests in NLP, and CV. 
 
-Here are some ideas to get you started:
+💻 My skills include Python, Sklearn, spaCy, Tensorflow, PyTorch, Pandas, Numpy, BeautifulSoup, Flask, FastAPI, React, Jupyter, git, Docker, GCP, HuggingFace.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on ML tools that help in increasing productivity!
+
+🌱 I’m currently learning about AI x-risk and safety
+
+📖 I have also started writing on the latest in ML research with focus on NLP, you can find my blog [here](perplexity.dev/) 🚧 this is a constant work in progress though! 
+
+📫 How to reach me: You can reach me via [LinkedIn](https://www.linkedin.com/in/marouf-shaikh/)
+
