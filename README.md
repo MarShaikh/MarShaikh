@@ -15,12 +15,12 @@ I am a Research Software Engineer specializing in the application of machine lea
 - **Data Engineering & Geospatial**: SQL, PostgreSQL, ETL, Data Pipelines, STAC API
 
 ## 🔭 Current Projects
-    - **Lassa Fever Forecasting**: Pioneered the application of Conformal Prediction to generate reliable 95% uncertainty intervals for Lassa fever forecasts. Developed statistical modeling approaches for zero-inflated count data, improving prediction accuracy by 20%.
-    - **Production-Ready API**: Architected and deployed a production-ready API for Lassa fever surveillance on Azure using RestRServe, Docker, and Terraform, which reduced analysis time by 40%.
-    - **Cloud-Native Geospatial Data Management**: Deployed and managed a cloud-native STAC API on Azure for ingesting and managing large-scale geospatial datasets (e.g., CHIRPS, MODIS), ensuring high data integrity.
-    - **Automation & CI/CD**: Established a CI/CD pipeline with GitHub Actions to automate monthly data updates, accelerating run times by up to 95% by optimizing R package dependency caching.
-    - **Efficient Fine-Tuning of Protein Language Models**: Implemented and optimized fine-tuning methods using LoRA (Low-Rank Adaptation), reducing computational resource requirements by 60% while maintaining 95% of full fine-tuning performance.
-    - **Genomic Data Preprocessing**: Developed custom data preprocessing pipelines for complex biological datasets, enabling the analysis of 40% larger sequence inputs than was possible with standard model limitations.
+- **Lassa Fever Forecasting**: Pioneered the application of Conformal Prediction to generate reliable 95% uncertainty intervals for Lassa fever forecasts. Developed statistical modeling approaches for zero-inflated count data, improving prediction accuracy by 20%.
+- **Production-Ready API**: Architected and deployed a production-ready API for Lassa fever surveillance on Azure using RestRServe, Docker, and Terraform, which reduced analysis time by 40%.
+- **Cloud-Native Geospatial Data Management**: Deployed and managed a cloud-native STAC API on Azure for ingesting and managing large-scale geospatial datasets (e.g., CHIRPS, MODIS), ensuring high data integrity.
+- **Automation & CI/CD**: Established a CI/CD pipeline with GitHub Actions to automate monthly data updates, accelerating run times by up to 95% by optimizing R package dependency caching.
+- **Efficient Fine-Tuning of Protein Language Models**: Implemented and optimized fine-tuning methods using LoRA (Low-Rank Adaptation), reducing computational resource requirements by 60% while maintaining 95% of full fine-tuning performance.  
+- **Genomic Data Preprocessing**: Developed custom data preprocessing pipelines for complex biological datasets, enabling the analysis of 40% larger sequence inputs than was possible with standard model limitations.
 
 ## 🌱 Ongoing Learning
 - Deepening my understanding of advanced statistical models for spatio-temporal data.
