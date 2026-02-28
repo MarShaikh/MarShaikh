@@ -1,37 +1,23 @@
-# Hi there 👋
+# hey, i'm marouf 👋
 
-I am a Research Software Engineer with a passion for building scalable machine learning systems and developing robust software tools for data-intensive applications.
+research software engineer — I make ML work in prod, not just in notebooks.
 
-## 💼 Professional Interests
-- **Applied ML**: Architecting and deploying machine learning models for complex challenges, including spatio-temporal forecasting and large-scale sequence analysis.
-- **Data Engineering & Geospatial**: Building cloud-native data platforms, like STAC APIs, to efficiently manage, process, and serve large-scale datasets.
-- **ML & AI**: Advancing skills in modern machine learning, including statistical modeling, Conformal Prediction for reliable uncertainty quantification, and efficient fine-tuning methods (e.g., LoRA) for large transformer models.
-- **Cloud & MLOps**: Designing and automating CI/CD pipelines for model deployment, data updates, and infrastructure management using tools like Terraform and GitHub Actions.
+currently building MLOps infra and geospatial data pipelines for epidemiological forecasting @ [LSHTM](https://www.lshtm.ac.uk/). previously worked on protein language models in biotech and did a stint at a YC startup.
 
-## 💻 Skills
-- **Languages & Libraries**: Python, R, PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Hugging Face
-- **ML & AI**: Supervised & Unsupervised Learning, Deep Learning, Generative AI (LLMs), Statistical Modeling, Conformal Prediction
-- **Cloud & MLOps**: Azure, Google Cloud Platform (GCP), AWS, Docker, Terraform, CI/CD, GitHub Actions, Git
-- **Data Engineering & Geospatial**: SQL, PostgreSQL, ETL, Data Pipelines, STAC API
+i like the space between research and production. most of my work involves making messy scientific workflows into something deployable.
 
-## 🔭 Current Projects
-- **Real-time Spatio-Temporal Forecasting System**
-    - Pioneered the application of Conformal Prediction to generate reliable 95% uncertainty intervals for time-series forecasts.
-    - Developed advanced statistical modeling approaches for zero-inflated count data, improving prediction accuracy by 20%.
-    - Architected and deployed a production-ready API on Azure (using RestRServe, Docker, and Terraform) for real-time data surveillance, reducing analysis time by 40%.
-    - Implemented a cloud-native STAC API to ingest and manage large-scale geospatial datasets (e.g., CHIRPS, MODIS), ensuring high data integrity.
-    - Established a CI/CD pipeline with GitHub Actions to automate monthly data updates, accelerating run times by up to 95%.
+### things i reach for
 
-- **Efficient Transformer Model Adaptation**
-    - Implemented and optimized parameter-efficient fine-tuning (PEFT) methods like LoRA for large transformer architectures, reducing computational resource needs by 60% while retaining 95% of full fine-tuning performance.
-    - Engineered custom data preprocessing pipelines for complex, large-scale sequence data, enabling the analysis of inputs 40% larger than was possible with standard model limitations.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-## 🌱 Ongoing Learning
-- Deepening my understanding of advanced statistical models for complex, high-dimensional data.
-- Exploring and implementing MLOps strategies to enhance the reproducibility, scalability, and monitoring of machine learning workflows.
-- Researching novel approaches for applying large language models to structured and unstructured data extraction and analysis tasks.
+---
 
-## 📫 How to Reach Me
-- **[LinkedIn](https://www.linkedin.com/in/marouf-shaikh/)**
-- **[GitHub](https://github.com/MarShaikh)**
-- **Email**: maruf3141@outlook.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marouf-shaikh/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maruf3141@outlook.com)
