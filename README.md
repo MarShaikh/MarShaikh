@@ -12,6 +12,7 @@ i like the space between research and production. most of my work involves turni
 - a **distributed jobs framework** for MDV with a pluggable executor abstraction (Local + Slurm backends), so analysis jobs can run on HPC as easily as locally
 - **vLLM / local LLM inference** across HPC and OpenStack environments
 - [`mdvtools`](https://pypi.org/project/mdvtools/) — packaging and shipping it on PyPI
+- [`carryon`](https://github.com/marshaikh/carryon) — Move an AI coding agent setup to a new machine - config, capability and knowledge, chat. Claude Code, Codex, Cursor.
 
 ### things i reach for
 
